@@ -1,5 +1,4 @@
 
-**Description:**
 Welcome to TinDog, your furry friend's matchmaking app! This responsive website project is designed to help dogs find new and interesting canine companions in their neighborhood. With a sleek and user-friendly interface, TinDog is perfect for dogs of all shapes and sizes looking for their pawfect match.
 
 ## Key Features
